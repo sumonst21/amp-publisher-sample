@@ -12,7 +12,7 @@
   "dependencies": {
     "connect-history-api-fallback": "*",
     "del": "*",
-    "express": "^4.16.2",
+    "express": "^4.21.2",
     "express-sslify": "^1.2.0",
     "gulp": "github:gulpjs/gulp#4.0",
     "gulp-autoprefixer": "*",
@@ -27,7 +27,7 @@
     "gulp-uglify": "*",
     "helmet": "^3.12.1",
     "memory-cache": "^0.2.0",
-    "request": "^2.81.0",
+    "request": "^2.88.2",
     "uglify-es": "*",
     "workbox-build": "^3.2.0"
   },
